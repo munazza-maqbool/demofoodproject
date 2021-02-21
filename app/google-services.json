@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "186816750457",
+    "project_id": "demofoodproject",
+    "storage_bucket": "demofoodproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186816750457:android:c0ecfe7b57e560bef4c5a8",
+        "android_client_info": {
+          "package_name": "com.example.demofoodproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186816750457-ag20rc00ab3pmbk8mtnotsf3re3upbkr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjrJlfuDOyS68la7693vh7NGm86h0WHn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186816750457-ag20rc00ab3pmbk8mtnotsf3re3upbkr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
